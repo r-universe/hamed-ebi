@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "OpenStats"]
 	path = OpenStats
 	url = https://git.bioconductor.org/packages/OpenStats
-	shallow = true
-	registered = true
 [submodule "PhenStat"]
 	path = PhenStat
 	url = https://git.bioconductor.org/packages/PhenStat
-	shallow = true
-	registered = true
 [submodule "SmoothWin"]
 	path = SmoothWin
 	url = https://github.com/cran/SmoothWin
-	shallow = true
-	registered = true
