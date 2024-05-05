@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "PhenStat"]
-	path = PhenStat
-	url = https://git.bioconductor.org/packages/PhenStat
 [submodule "SmoothWin"]
 	path = SmoothWin
 	url = https://github.com/cran/SmoothWin
